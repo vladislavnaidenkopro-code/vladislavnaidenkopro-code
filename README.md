@@ -4,7 +4,7 @@ Engineering portfolio focused on **AI security, agentic systems, confidential co
 
 ## Featured work
 
-### Hardware-Attested AI Agent Runtime
+### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
 
 A public technical showcase of a trust architecture for sensitive AI-agent operations using confidential computing, measurement-bound key access, fail-closed authorization and tamper-evident audit evidence.
 
