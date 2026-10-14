@@ -1,35 +1,13 @@
-# Vladislav Naidenko
+# VLADS — AI Security and Software Engineering
 
-Engineering portfolio focused on **AI security, agentic systems, confidential computing, DevSecOps and verifiable runtime controls**.
+Engineering portfolio focused on reliable AI-assisted systems, security engineering, confidential computing, and responsible automation.
 
-## Featured work
+## Selected public work
+- [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime) — a bounded internal-evaluation showcase addressing security and auditability for sensitive AI-agent operations.
+- Additional private engineering work spans runtime governance, browser automation safety, operator experience, and analytical systems. These projects are not published as turnkey implementations.
 
-### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
+## Publication boundary
+Public materials describe project goals, engineering scope, and evidence limitations. Private source code, configurations, operational security details, proprietary algorithms, and internal evidence are not released.
 
-A public technical showcase of a trust architecture for sensitive AI-agent operations using confidential computing, measurement-bound key access, fail-closed authorization and tamper-evident audit evidence.
-
-Core themes:
-
-- hardware-backed runtime attestation;
-- measurement-bound secret access;
-- security evidence and release provenance;
-- fail-closed configuration/trust controls;
-- agentic-system exposure intelligence;
-- enterprise productization of AI security controls.
-
-The public repository intentionally excludes private implementation source, cloud identifiers, credentials, raw audit logs and recovery material.
-
-## Engineering principles
-
-- evidence before claims;
-- fail closed for sensitive operations;
-- minimize secret exposure;
-- preserve reproducibility and recovery paths;
-- separate public demonstrations from private production engineering;
-- treat autonomous-agent actions as governed effects rather than ordinary API calls.
-
-## Current direction
-
-Current R&D/productization work is focused on confidential-runtime recovery, trust/configuration lifecycle, operator evidence surfaces, repeatable deployment, enterprise identity and AI exposure intelligence.
-
-> Public repositories here are curated showcase artifacts. Private engineering repositories remain separate.
+## Claims boundary
+Project descriptions do not imply independent certification, production readiness, or third-party validation.
