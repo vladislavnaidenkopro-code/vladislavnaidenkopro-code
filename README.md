@@ -1,13 +1,28 @@
-# VLADS — AI Security and Software Engineering
+# Vladislav Naidenko
 
-Engineering portfolio focused on reliable AI-assisted systems, security engineering, confidential computing, and responsible automation.
+**AI Security & Automation Engineer**
 
-## Selected public work
-- [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime) — a bounded internal-evaluation showcase addressing security and auditability for sensitive AI-agent operations.
-- Additional private engineering work spans runtime governance, browser automation safety, operator experience, and analytical systems. These projects are not published as turnkey implementations.
+I work on security-focused AI software, practical automation, and reliable human-centered systems. My public portfolio highlights engineering scope without distributing private commercial implementations.
+
+## Public engineering showcase
+
+### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
+A bounded public engineering showcase exploring AI-agent security and confidential computing. It is not a production product release or a distribution of proprietary technology.
+
+## Selected private product initiatives
+
+**Universal Browser Agent** — Intelligent browser automation for practical digital workflows.
+
+**VLADS Live Assistant** *(working public name)* — Multilingual assistance for interviews and live conversations. In pre-release validation.
+
+**Forecast Intelligence** — AI-assisted research and decision-support software.
+
+**R22 Scanner** — Technology intelligence and monitoring.
+
+**Operator Studio** — A workspace concept for interacting with AI-powered operations.
+
+These descriptions identify areas of development, not products currently offered for general availability. No production certification, independent validation, or specific performance claims are implied.
 
 ## Publication boundary
-Public materials describe project goals, engineering scope, and evidence limitations. Private source code, configurations, operational security details, proprietary algorithms, and internal evidence are not released.
 
-## Claims boundary
-Project descriptions do not imply independent certification, production readiness, or third-party validation.
+Commercial source code, proprietary algorithms, internal architecture, configurations, security mechanisms, and private engineering evidence are not published here.
