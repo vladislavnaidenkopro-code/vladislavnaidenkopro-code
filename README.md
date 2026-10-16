@@ -9,6 +9,10 @@ I work on security-focused AI software, practical automation, and reliable human
 ### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
 A bounded public engineering showcase exploring AI-agent security and confidential computing. It is not a production product release or a distribution of proprietary technology.
 
+## Product portfolio
+
+[VLADS Future — Product Portfolio](https://github.com/vladislavnaidenkopro-code/vlads-product-portfolio) presents selected private initiatives at a high level, without proprietary implementations.
+
 ## Selected private product initiatives
 
 **Universal Browser Agent** — Intelligent browser automation for practical digital workflows.
