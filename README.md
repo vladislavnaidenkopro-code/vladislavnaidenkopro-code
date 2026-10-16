@@ -17,7 +17,7 @@ A bounded public engineering showcase exploring AI-agent security and confidenti
 
 **Forecast Intelligence** — AI-assisted research and decision-support software.
 
-**R22 Scanner** — Technology intelligence and monitoring.
+**VLADS Technology Intelligence** — Technology intelligence and monitoring.
 
 **Operator Studio** — A workspace concept for interacting with AI-powered operations.
 
