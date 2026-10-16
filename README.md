@@ -13,7 +13,7 @@ A bounded public engineering showcase exploring AI-agent security and confidenti
 
 **Universal Browser Agent** — Intelligent browser automation for practical digital workflows.
 
-**VLADS Live Assistant** *(working public name)* — Multilingual assistance for interviews and live conversations. In pre-release validation.
+**VLADS Live Assistant** — Multilingual assistance for interviews and live conversations. In pre-release validation.
 
 **Forecast Intelligence** — AI-assisted research and decision-support software.
 
