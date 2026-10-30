@@ -9,21 +9,26 @@ I work on security-focused AI software, practical automation, and reliable human
 ### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
 A bounded public engineering showcase exploring AI-agent security and confidential computing. It is not a production product release or a distribution of proprietary technology.
 
-Selected Research
 
-AI-Agent Execution Assurance
+## Selected Research
 
-When Execution Evidence Is Not Enough: Bounded Countermodels for AI-Agent Authorization, Idempotency, and Log Continuity
+### AI-Agent Execution Assurance
 
-Independent, reproducible research exploring the limitations of execution evidence for AI-agent authorization, idempotency, and audit-log continuity.
+**When Execution Evidence Is Not Enough: Bounded Countermodels for AI-Agent Authorization, Idempotency, and Log Continuity**
 
-Scientific preprint: Zenodo publication
+Independent, reproducible research examining the limitations of execution evidence for AI-agent authorization, idempotency, and audit-log continuity.
 
-Reproducible software: Zenodo archive
+**Published research:**
 
-Research repository: Agent Execution Assurance
+- **Scientific preprint:** [Read the paper on Zenodo](https://doi.org/10.5281/zenodo.23784545)
+- **Reproducible software:** [Access the research archive](https://doi.org/10.5281/zenodo.23783618)
+- **GitHub:** [Agent Execution Assurance research repository](https://github.com/vladislavnaidenkopro-code/agent-execution-assurance)
 
-The findings are based on finite models and explicit trust assumptions. This work has not undergone independent peer review and does not establish production security guarantees for VLADS Future systems.
+**Research evidence:** 104 Python unit tests passed across Python 3.10, 3.12, and 3.13 on the frozen research source.
+
+**Scope and limitations:** Results are based on finite models and explicit trust assumptions. The scientific preprint is not peer-reviewed. These findings do not establish production security guarantees for proprietary VLADS Future systems.
+
+---
 
 ## Product portfolio
 
