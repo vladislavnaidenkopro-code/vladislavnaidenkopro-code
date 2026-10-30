@@ -20,11 +20,12 @@ Independent, reproducible research examining the limitations of execution eviden
 
 **Published research:**
 
-- **Scientific preprint:** [Read the paper on Zenodo](https://doi.org/10.5281/zenodo.23784545)
-- **Reproducible software:** [Access the research archive](https://doi.org/10.5281/zenodo.23783618)
-- **GitHub:** [Agent Execution Assurance research repository](https://github.com/vladislavnaidenkopro-code/agent-execution-assurance)
+- **Latest corrected scientific preprint (v0.3.4, 30 Oct 2026):** [Read on Zenodo — DOI 10.5281/zenodo.23817318](https://doi.org/10.5281/zenodo.23817318)
+- **Earlier preprint (v0.3.3):** [Zenodo DOI 10.5281/zenodo.23784545](https://doi.org/10.5281/zenodo.23784545)
+- **Reproducible research software (v1.2.0):** [Zenodo DOI 10.5281/zenodo.23783618](https://doi.org/10.5281/zenodo.23783618)
+- **Source and reproducibility guidance:** [Agent Execution Assurance research repository](https://github.com/vladislavnaidenkopro-code/agent-execution-assurance)
 
-**Research evidence:** 104 Python unit tests passed across Python 3.10, 3.12, and 3.13 on the frozen research source.
+**Research evidence:** 104 Python unittest methods passed across Python 3.10, 3.12, and 3.13 on [frozen research source SHA `53f1d496...`](https://github.com/vladislavnaidenkopro-code/agent-execution-assurance/tree/53f1d4963d604b8d6e108386ebd2f4aebbd2daf6). The default repository branch retains the older 10-test educational version. The v0.3.4 preprint corrects bibliography and scientific positioning, not a new experimental theorem.
 
 **Scope and limitations:** Results are based on finite models and explicit trust assumptions. The scientific preprint is not peer-reviewed. These findings do not establish production security guarantees for proprietary VLADS Future systems.
 
