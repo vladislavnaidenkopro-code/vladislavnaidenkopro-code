@@ -9,6 +9,22 @@ I work on security-focused AI software, practical automation, and reliable human
 ### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
 A bounded public engineering showcase exploring AI-agent security and confidential computing. It is not a production product release or a distribution of proprietary technology.
 
+Selected Research
+
+AI-Agent Execution Assurance
+
+When Execution Evidence Is Not Enough: Bounded Countermodels for AI-Agent Authorization, Idempotency, and Log Continuity
+
+Independent, reproducible research exploring the limitations of execution evidence for AI-agent authorization, idempotency, and audit-log continuity.
+
+Scientific preprint: Zenodo publication
+
+Reproducible software: Zenodo archive
+
+Research repository: Agent Execution Assurance
+
+The findings are based on finite models and explicit trust assumptions. This work has not undergone independent peer review and does not establish production security guarantees for VLADS Future systems.
+
 ## Product portfolio
 
 [VLADS Future — Product Portfolio](https://github.com/vladislavnaidenkopro-code/vlads-product-portfolio) presents selected private initiatives at a high level, without proprietary implementations.
